@@ -57,7 +57,7 @@ on:
         default: 'true'
 
 env:
-  REPOSITORY_URL: https://github.com/yuos-bit/Padavan
+  REPOSITORY_URL: https://github.com/vb1980/Padavan-KVR
   WORK_PATH: /opt/padavan-3.4
   TIME_ZONE: Asia/Shanghai
   FIRMWARE_DATEPREFIX: $(date +"%Y%m%d")
