@@ -1,4 +1,4 @@
-name: Build Padavan_kvr.yml
+name: 云编译Padavan_kvr.yml
 
 on:
   workflow_dispatch:
