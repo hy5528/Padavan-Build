@@ -1,4 +1,4 @@
-name: Build_vb1980_Padavan_kvr.yml
+name: Build Padavan_kvr.yml
 
 on:
   workflow_dispatch:
